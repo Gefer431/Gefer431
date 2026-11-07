@@ -1,6 +1,10 @@
 # Hi there, I'm Geferson Castillo 👋
 
-### 🚀 Sobre mí
+📍Lara, Venezuela 
+🏫Universidad Centroccidental Lisandro Alvarado 
+💻Estudiante de Ingeniería Informática 
+
+### 🚀 About me
 ¡Hola! Soy estudiante de Ingeniería en Informática enfocado en el desarrollo de software. Actualmente sigo expandiendo mis conocimientos técnicos paso a paso.
 
 - 🛠️ Junto a mis compañeros desarrollé proyectos manejando requerimientos cambiantes y aplicando el patrón de arquitectura **MVC**.
@@ -27,7 +31,7 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 GitHub Stats
 
 Aquí puedes ver el rendimiento general de mis repositorios de forma dinámica:
 
