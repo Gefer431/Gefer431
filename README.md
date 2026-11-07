@@ -26,10 +26,16 @@
 </div>
 
 #### 🔹 Tecnologías & Arquitectura
-<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="MVC" /> <img src="https://shields.io" alt="MockAPI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> 
+<img src="https://githubusercontent.com" height="40" alt="MVC pattern logo" /> 
+<img src="https://githubusercontent.com" height="40" alt="MockAPI logo" />
+
 
 #### 🔹 Herramientas de Control de Versiones y Despliegue
-<img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" /> <img src="https://shields.io" alt="Vercel" />
+<img src="https://jsdelivr.net" height="40" alt="git logo" /> 
+<img src="https://jsdelivr.net" height="40" alt="github logo" /> 
+<img src="https://jsdelivr.net" height="40" alt="vercel logo" />
+
 
 ---
 
