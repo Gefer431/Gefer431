@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm gefer431 👋
 
-<!--
-**Gefer431/Gefer431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+¡Hola! Soy estudiante de Ingeniería en Informática enfocado en el desarrollo de software. Actualmente sigo expandiendo mis conocimientos técnicos paso a paso.
 
-Here are some ideas to get you started:
+- 🛠️ Junto a mis compañeros desarrollé proyectos manejando requerimientos cambiantes y aplicando el patrón de arquitectura **MVC**.
+- 📊 Actualmente enfocado en dominar **Python** orientado a la gestión y manipulación de bases de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack & Tools
+
+#### Lenguajes y Maquetación
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![HTML5](https://shields.io)
+
+#### Tecnologías & Arquitectura
+![Python](https://shields.io)
+![MVC Pattern](https://shields.io)
+![MockAPI](https://shields.io)
+
+#### Herramientas de Control de Versiones y Despliegue
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Vercel](https://shields.io)
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+Aquí puedes ver el rendimiento general de mis repositorios de forma dinámica:
+
+<p align="left">
+  <img src="https://vercel.app" alt="Estadísticas de GitHub de gefer431" width="400" />
+  <img src="https://herokuapp.com" alt="Racha de commits de gefer431" width="400" />
+</p>
+
