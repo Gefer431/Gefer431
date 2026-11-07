@@ -1,8 +1,8 @@
 # Hi there, I'm Geferson Castillo 👋
 
 * 📌 **Lara, Venezuela**
-* 🎓 **Universidad Centroccidental Lisandro Alvarado**
-* 💻 **Estudiante de Ingeniería en Informática**
+* 🏫 **Universidad Centroccidental Lisandro Alvarado**
+* 🎓 **Estudiante de Ingeniería en Informática**
 
 ---
 
