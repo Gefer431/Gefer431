@@ -32,8 +32,11 @@
 
 
 #### 🔹 Herramientas de Control de Versiones y Despliegue
-<img src="https://jsdelivr.net" height="40" alt="git logo" /> 
-<img src="https://jsdelivr.net" height="40" alt="github logo" /> 
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
 <img src="https://jsdelivr.net" height="40" alt="vercel logo" />
 
 
