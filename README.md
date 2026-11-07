@@ -1,4 +1,4 @@
-# Hi there, I'm gefer431 👋
+# Hi there, I'm Geferson Castillo 👋
 
 ### 🚀 Sobre mí
 ¡Hola! Soy estudiante de Ingeniería en Informática enfocado en el desarrollo de software. Actualmente sigo expandiendo mis conocimientos técnicos paso a paso.
