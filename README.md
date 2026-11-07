@@ -17,23 +17,26 @@
 ### 🚀 Tech Stack & Tools
 
 #### 🔹 Lenguajes y Maquetación
-<img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="HTML5" />
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![HTML5](https://shields.io)
 
 #### 🔹 Tecnologías & Arquitectura
-<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="MVC" /> <img src="https://shields.io" alt="MockAPI" />
+![Python](https://shields.io)
+![MVC Pattern](https://shields.io)
+![MockAPI](https://shields.io)
 
 #### 🔹 Herramientas de Control de Versiones y Despliegue
-<img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" /> <img src="https://shields.io" alt="Vercel" />
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Vercel](https://shields.io)
 
 ---
 
 ### 📊 GitHub Stats
 
-Aquí puedes ver el rendimiento general de mis repositorios de forma dinámica:
+Rendimiento general de mis repositorios:
 
-<p align="left">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub de gefer431" width="400" />
-</p>
-<p align="left">
-  <img src="https://herokuapp.com" alt="Racha de commits de gefer431" width="400" />
-</p>
+![Estadísticas de GitHub](https://vercel.app)
+
+![Racha de commits](https://herokuapp.com)
