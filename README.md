@@ -26,14 +26,10 @@
 </div>
 
 #### 🔹 Tecnologías & Arquitectura
-![Python](https://shields.io)
-![MVC Pattern](https://shields.io)
-![MockAPI](https://shields.io)
+<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="MVC" /> <img src="https://shields.io" alt="MockAPI" />
 
 #### 🔹 Herramientas de Control de Versiones y Despliegue
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Vercel](https://shields.io)
+<img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" /> <img src="https://shields.io" alt="Vercel" />
 
 ---
 
@@ -41,11 +37,15 @@
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/gefer431/gefer431/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  
   <img src="https://raw.githubusercontent.com/gefer431/gefer431/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 Rendimiento general de mis repositorios:
 
-![Estadísticas de GitHub](https://vercel.app)
-
-![Racha de commits](https://herokuapp.com)
+<p align="left">
+  <img src="https://vercel.app" alt="Estadísticas de GitHub de gefer431" width="400" />
+</p>
+<p align="left">
+  <img src="https://herokuapp.com" alt="Racha de commits de gefer431" width="400" />
+</p>
